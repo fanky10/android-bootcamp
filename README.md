@@ -1,7 +1,7 @@
 
 #Android Native Development Boot Camp
 
-##Have an idea, you have an app!
+##You have an idea, you have an app!
 ###Let's get our hands full of code
 
 ####Index
